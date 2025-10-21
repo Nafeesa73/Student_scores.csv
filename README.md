@@ -1,1 +1,2 @@
-# Student_scores.csv
+# Student_scores. This project analyzes students’ academic performance using a CSV dataset containing scores in various subjects.
+The program performs data cleaning, statistical analysis, and generates useful insights such as average, mean, and standard deviation for each subject.
